@@ -16,7 +16,7 @@ Run the following command on terminal:
 scrapy crawl spider
 ```
 
-This command will generate csv output with name *spider.csv". If open it with pandas you will get like shown below:
+This command will generate csv output with name *spider.csv*. If open it with pandas you will get a preview like shown below:
 
 ```bash
 (py38) ➜ orami-spider git:(master) ✗ python
